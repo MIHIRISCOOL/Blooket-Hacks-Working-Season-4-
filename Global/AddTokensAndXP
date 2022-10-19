@@ -1,3 +1,4 @@
+alert('Sout out to https://github.com/highfl')
 const axios = Object.values(webpackJsonp.push([[], { ['']: (_, a, b) => { a.cache = b.c }, }, [['']],]).cache).find((x) => x.exports?.a?.put).exports.a;
 axios.get("https://dashboard.blooket.com/api/users/verify-session").then(d=>{
     let n = document.createElement('iframe');
